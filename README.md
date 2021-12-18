@@ -12,10 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RTAが好きなら真空ジェシカを見よ](https://garsue.dev/posts/shinku-jessica/)
 - [Unlearn RDBMS](https://garsue.dev/posts/unlearn-rdbms/)
 - [GoでGCのタイミングをprintデバッグする](https://garsue.dev/posts/debug-gc-in-go/)
 - [WSLから起動したGoLand&lpar;IntelliJ&rpar;で日本語入力する](https://garsue.dev/posts/uim-mozc-with-goland-in-wsl/)
-- [スプレッドシートでDSUMにインラインで複数の条件を渡す方法](https://garsue.dev/posts/spread-sheets-dsum-inline-condition/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
