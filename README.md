@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Money Forward Kessai](https://mfkessai.co.jp/)
 
-- 🌱 I’m currently learning **NewSQL (distributed database), observability, and testing.**
+- 🌱 I’m interested in **NewSQL (distributed database), observability, and testing.**
 
 - 💬 Ask me about **Go, MySQL, and some services in Google Cloud**
 
