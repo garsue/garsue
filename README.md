@@ -12,10 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [インテリアグリーン](https://garsue.dev/posts/interior-green-in-action/)
 - [照明の話、というかARTWORK STUDIOのGlowの話](https://garsue.dev/posts/lighting-in-action/)
 - [Facilitatorパターンの紹介](https://garsue.dev/posts/facilitator-pattern/)
 - [RTAが好きなら真空ジェシカを見よ](https://garsue.dev/posts/shinku-jessica/)
-- [Unlearn RDBMS](https://garsue.dev/posts/unlearn-rdbms/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
